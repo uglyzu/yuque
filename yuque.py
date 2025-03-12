@@ -3,7 +3,7 @@
 Created Date:
    2025-03-11, 11:45:49
 Author:
-   luanpan (luanpan@corp.netease.com)
+   lp
 
 config.json:
 {
@@ -13,7 +13,6 @@ config.json:
     "DATA_PATH": "yuque_data"
 }
 """
-
 
 import json
 import sys
